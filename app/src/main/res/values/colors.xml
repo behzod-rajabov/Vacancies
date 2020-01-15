@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196f3</color>
+    <color name="colorPrimaryDark">#1976d2</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="darker_grey">@android:color/darker_gray</color>
+    <color name="grey">#dedede</color>
+    <color name="textGrey">#555555</color>
+    <color name="textGreyMiddle">#666666</color>
+    <color name="textGreyLigt">#777777</color>
+    <color name="light_grey">#eeeeee</color>
+    <color name="button">@color/colorPrimary</color>
+    <color name="button_dark">@color/colorPrimaryDark</color>
+    <color name="green">#2e7d32</color>
+    <color name="message">#77CCFF</color>
+    <color name="message_me">#88EE77</color>
+
+</resources>
